@@ -1,0 +1,17 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+ul {
+  padding: 0px;
+  margin:0px;
+}
+
+li {
+  list-style:none;
+}
+
+img {
+  width: 200px;
+}
